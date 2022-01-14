@@ -4,4 +4,4 @@ Aplicação de perguntas desenvolvida na nlw together.
 ## Criado com HTML e CSS
 
 ### Home
-![home](imgs/home.svg)
+![home](imgs/Home.svg)
