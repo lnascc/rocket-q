@@ -6,12 +6,12 @@ Aplicação de perguntas desenvolvida na nlw together.
 ### Home
 ![home](/imgs/Home.png)
 
-&nbsp
+&nbsp;
 
 ### Create Pass
 ![create-pass](/imgs/create-pass.png)
 
-&nbsp
+&nbsp;
 
 ### Perguntas
 ![perguntas](/imgs/questions.png)
